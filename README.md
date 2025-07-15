@@ -54,5 +54,5 @@ frontend/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/alvesGabs/pinecom.git
+   git clone https://github.com/alvesGabs/Pinecom.git
    cd pinecom
