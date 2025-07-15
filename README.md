@@ -20,6 +20,7 @@
 - Expo
 - Expo Router
 - Context API (para gerenciamento do carrinho)
+- Python
 - TypeScript ou JavaScript
 - Ícones do Expo Vector Icons (Ionicons)
 
