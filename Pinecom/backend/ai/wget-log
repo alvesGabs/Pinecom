@@ -1,0 +1,11 @@
+--2025-04-02 15:43:40--  https://www.amazon.com.br/C%C3%A2mera-Digital-Canon-REBEL-S18-55/dp/B09QL7J9Q8/ref=asc_df_B09QL7J9Q8?mcid=77fb4a0672e93f5e88cae1dda52f4c4c
+Resolvendo www.amazon.com.br (www.amazon.com.br)... 13.227.125.41, 2600:9000:21e8:6000:d:1:4655:1fc1, 2600:9000:21e8:b000:d:1:4655:1fc1, ...
+Conectando-se a www.amazon.com.br (www.amazon.com.br)|13.227.125.41|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 200 OK
+Tamanho: 1039164 (1015K)
+Salvando em: ‘ref=asc_df_B09QL7J9Q8?mcid=77fb4a0672e93f5e88cae1dda52f4c4c’
+
+                   ref=asc_df_B09QL7J   0%[                                                                          ]       0  --.-KB/s                                 ref=asc_df_B09QL7J9   4%[==>                                                                       ]  50,05K   209KB/s                                ref=asc_df_B09QL7J9Q  25%[=================>                                                        ] 259,66K   580KB/s                               ref=asc_df_B09QL7J9Q8  56%[========================================>                                 ] 574,28K   883KB/s               ref=asc_df_B09QL7J9Q8?mcid=77fb4a0672 100%[=========================================================================>]   1015K  1,24MB/s    em 0,8s    
+
+2025-04-02 15:43:42 (1,24 MB/s) - ‘ref=asc_df_B09QL7J9Q8?mcid=77fb4a0672e93f5e88cae1dda52f4c4c’ salvo [1039164/1039164]
+
